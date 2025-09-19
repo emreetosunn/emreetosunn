@@ -1,4 +1,4 @@
-<h2 align="left">👋</h2>
+<h2 align="left">I don't know if it's full stack or not, but it's very stack. 👋</h2>
 
 ###
 
